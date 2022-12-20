@@ -8,3 +8,6 @@ refractories
 flux
 rocks cloning
 mines
+crystallography of minerals
+solid solutions of rocks minerals
+lattice structuers
